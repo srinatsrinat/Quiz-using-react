@@ -1,0 +1,55 @@
+h1, p {
+  font-family: Lato;
+}
+
+.GoToQuiz{
+  border: solid 1px black;
+  border-radius: 4px;
+  background-color: beige;
+}
+
+.optBtn{
+  position: relative;
+  width: 100%;
+  background-color: white;
+  border: 0.5px dashed;
+
+}
+
+.optBtn:hover{
+  content: none;
+  position: relative;
+  width: 100%;
+  background-color: beige;
+  border: 0.5px dashed;
+
+}
+
+.opt1Btn{
+  position: relative;
+  width: 100%;
+  background-color: beige;
+  border: 1px solid black;
+
+}
+
+.common{
+  text-align:center;
+}
+
+
+table{
+  position: relative;
+  top: 400px;
+  color: black;
+}
+
+.final{
+
+position: relative;
+top: 30px;
+  margin: none;
+  text-align: center;
+
+}
+
